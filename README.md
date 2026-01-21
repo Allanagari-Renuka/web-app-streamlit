@@ -613,12 +613,3 @@ If you encounter issues or have suggestions:
 - [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 
----
-
-<div align="center">
-
-**Built with ❤️ by Allanagari Renuka**
-
-[⬆ Back to Top](#-interactive-ml-prediction-web-application)
-
-</div>
